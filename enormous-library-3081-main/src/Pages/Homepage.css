@@ -1,0 +1,29 @@
+.head{
+    background-image:url(C:\Users\MSI Gaming\Desktop\enormous-library-3081-main\enormous-library-3081-main\src\Components\Images\scrappeer.png) ;
+    height: 135px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    margin-top: 10px;
+    top: 112px;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.bt{
+    margin-left: 50%;
+    margin-top: 60px;
+    background-color: antiquewhite;
+    height: 40px;
+    width: 102px;
+    border-radius: 4px;
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+    z-index: 1;
+}
+.listview{
+    margin-top: 4%;
+}
+.ho{
+    margin: 4%;
+}
